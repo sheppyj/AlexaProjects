@@ -1,0 +1,6 @@
+GetWordDefinition What does {Word} mean
+GetWordDefinition What is a {Word}
+GetWordDefinition What does a {Word} do
+GetWordDefinition What is the definition of {Word}
+GetWordDefinition Whats a {Word}
+GetWordDefinition {Word}

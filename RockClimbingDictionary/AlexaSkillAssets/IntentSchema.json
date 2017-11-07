@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetWordDefinition",
+      "slots": [
+      {
+        "name" : "Word",
+        "type": "ListOfWords.txt"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
